@@ -1,19 +1,21 @@
 # Mario AI
 ## Reinforcement Learning and Mario
 ### Install Libraries and Establish Environment
-'''
+```
 !pip install gym_super_mario_bros==7.4.0 nes_py==8.2.1
-'''
+```
 ### Preprocess Enivornment
-'''
+```
 !pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+```
+```
 !pip install stable-baselines3[extra]
-'''
+```
+
 GrayScale: 240*256*1 = 61440
 Color: 240*256*3 = 184320
 
 <matplotlib.image.AxesImage at 0x7f9b024405e0>
-image.png
 
 ### Train the Model
 
