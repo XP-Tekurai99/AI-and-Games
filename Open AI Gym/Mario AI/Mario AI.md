@@ -16,8 +16,9 @@
 !pip install stable-baselines3[extra]
 ```
 
-GrayScale: 240*256*1 = 61440
-Color: 240*256*3 = 184320
+Enabling the AI to process grayscale imagery reduces the data flow which improves learning efficency. When the model sees colors, the frames are broken into three channels whereas grayscale only requires one.
+* GrayScale: 240*256*1 = 61440 pixels
+* Color: 240*256*3 = 184320 pixels
 
 <matplotlib.image.AxesImage at 0x7f9b024405e0>
 
