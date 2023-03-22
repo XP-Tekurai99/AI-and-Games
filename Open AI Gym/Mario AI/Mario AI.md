@@ -1,4 +1,6 @@
 # Mario AI
+![image](https://user-images.githubusercontent.com/110959584/227002450-cf9466fd-b2b5-4572-9746-17dd60e48b19.png)
+
 ## Reinforcement Learning and Mario
 ### Install Libraries and Establish Environment
 ```
