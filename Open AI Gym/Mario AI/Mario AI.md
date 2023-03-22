@@ -20,8 +20,6 @@ Enabling the AI to process grayscale imagery reduces the data flow which improve
 * GrayScale: 240*256*1 = 61440 pixels
 * Color: 240*256*3 = 184320 pixels
 
-<matplotlib.image.AxesImage at 0x7f9b024405e0>
-
 ### Train the Model
 
 ### Test the Model
