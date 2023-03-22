@@ -2,6 +2,8 @@
 ![image](https://user-images.githubusercontent.com/110959584/227002450-cf9466fd-b2b5-4572-9746-17dd60e48b19.png)
 
 ## Reinforcement Learning and Mario
+![image](https://user-images.githubusercontent.com/110959584/227003298-3b42276f-f9f7-486e-91be-6281078a27f4.png)
+
 ### Install Libraries and Establish Environment
 ```
 !pip install gym_super_mario_bros==7.4.0 nes_py==8.2.1
