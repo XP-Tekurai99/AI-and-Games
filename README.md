@@ -1,12 +1,16 @@
 # AI and Games
 ## AI Models Trained on Game Data
 
-Project Examples:
+Projects:
 * Mario AI
+* Doom AI
 
 ## Languages and Libraries
 
 * Python
+* numpy
+* pandas
+* matplotlib
 
 <!-- LICENSE -->
 ## License
