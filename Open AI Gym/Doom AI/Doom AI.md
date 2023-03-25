@@ -1,8 +1,8 @@
 # Doom AI with ViZDoom
-![image](![image](https://user-images.githubusercontent.com/110959584/227667879-ca1b7eba-ce98-406e-86cc-ba150fd428ff.png))
+![image](https://user-images.githubusercontent.com/110959584/227667879-ca1b7eba-ce98-406e-86cc-ba150fd428ff.png))
 
 ## Reinforcement Learning and Doom
-![image](![image](https://user-images.githubusercontent.com/110959584/227667903-b22a98eb-629f-4341-bea2-d6b53c8189a4.png))
+![image](https://user-images.githubusercontent.com/110959584/227667903-b22a98eb-629f-4341-bea2-d6b53c8189a4.png))
 
 ### Install Libraries and Establish Environment
 ```
