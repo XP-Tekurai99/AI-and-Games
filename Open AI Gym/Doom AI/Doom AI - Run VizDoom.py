@@ -24,15 +24,15 @@ episodes = 50
 for episode in range(episodes):
     game.new_episode()
     while not game.is_episode_finished():
-        # Get the game state 
+        # Get Game State
         state = game.get_state()
-        # Get the game image 
+        # Get Game Image
         img = state.screen_buffer
-        # Get the game variables - ammo
+        # Get Game Variables: Ammo
         info = state.game_variables
-        # Take an action
+        # Take Action
         reward = game.make_action(random.choice(actions),4)
-        # Print rewward 
+        # Print Reward 
         print('reward:', reward) 
         time.sleep(0.02)
     print('Result:', game.get_total_reward())
